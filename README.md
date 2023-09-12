@@ -1,16 +1,25 @@
-# digiteca
+#Aplicativo Digiteca
+Visão Geral
+O aplicativo Digiteca é uma plataforma virtual de biblioteca desenvolvida em Flutter com uma API REST em PHP. Ele permite que os alunos acessem uma vasta coleção de livros, com mais de 200 títulos, após fazerem login em suas contas. O objetivo deste aplicativo é fornecer uma maneira conveniente e acessível para os alunos explorarem e lerem diversos livros de forma digital.
 
-Biblioteca digital, acervo com mais de 200 livros.
+Recursos Principais
+Login de Alunos: Os alunos podem criar contas e fazer login no aplicativo para acessar a Digiteca.
+Catálogo de Livros: O aplicativo oferece um catálogo com mais de 200 livros digitalizados.
+Pesquisa Avançada: Os usuários podem buscar livros por título, autor ou categoria.
+Leitura Online: Os alunos podem ler os livros diretamente no aplicativo, proporcionando uma experiência de leitura conveniente.
+Histórico de Leitura: Os alunos podem acessar seu histórico de leitura para acompanhar os livros que já leram.
 
-## Getting Started
+Requisitos do Sistema
+Para usar o aplicativo Digiteca, é necessário atender aos seguintes requisitos:
 
-This project is a starting point for a Flutter application.
+Dispositivo Android ou iOS.
+Conexão à internet para baixar livros e fazer login.
+Instalação
 
-A few resources to get you started if this is your first Flutter project:
+Licença
+Este projeto é licenciado sob a Licença MIT.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Contato
+Se você tiver alguma dúvida ou precisar de suporte, entre em contato conosco em ti@projetocrescerarapongas.org.br
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aproveite a sua experiência de leitura com o aplicativo Digiteca!
